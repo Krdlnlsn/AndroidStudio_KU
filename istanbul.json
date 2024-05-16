@@ -1,32 +1,22 @@
 { "istanbul" : [
     { 
         "isim" :"Kız Kulesi",
-         "aciklama":"İlk efsaneye göre Bizans krallarından birinin kızı olmuş ve kız hakkında bir kehanet ortaya atılmış.
-          Prenses, 18 yaşında bir yılan tarafından sokularak ölecekmiş. Bunu duyan kral, 
-          denizin ortasındaki adada bulunan kuleyi restore ettirerek prensesin yaşayabileceği bir alana dönüştürmüş.",
+         "aciklama":"İlk efsaneye göre Bizans krallarından birinin kızı olmuş ve kız hakkında bir kehanet ortaya atılmış. Prenses, 18 yaşında bir yılan tarafından sokularak ölecekmiş. Bunu duyan kral, denizin ortasındaki adada bulunan kuleyi restore ettirerek prensesin yaşayabileceği bir alana dönüştürmüş.",
          "fotourl":"https://raw.githubusercontent.com/Krdlnlsn/AndroidStudio_KU/main/KızKulesi.png"
     },
     {
         "isim":"Dolmabahçe Sarayı",
-        "aciklama":"Dolmabahçe Sarayı’nın bulunduğu bölge, antik çağlardan beri pek çok kez gemilerin sığındığı doğal liman görünümünde bir koy olarak bilinmektedir. 
-        Aynı zamanda, 15. yüzyılda Fatih Sultan Mehmed’in İstanbul’u fethi sırasında, Haliç’e indirmek üzere gemilerini karaya çıkardığı yer olduğu da rivayet olunmaktadır. 
-        Osmanlı döneminde Kaptan-ı Derya’nın donanma gemilerini demirledikleri ve geleneksel denizcilik törenlerinin yapıldığı bu koy, 
-        17. yüzyıldan itibaren doldurularak “Dolmabahçe” adıyla padişahların hasbahçesi konumuna getirilmiştir. 
-        19. yüzyıla kadar bu hasbahçe içinde yaptırılan ahşap köşk ve kasırlar topluluğu “Beşiktaş Sahil Sarayı” adıyla anılmıştır.",
+        "aciklama":"Dolmabahçe Sarayı’nın bulunduğu bölge, antik çağlardan beri pek çok kez gemilerin sığındığı doğal liman görünümünde bir koy olarak bilinmektedir. Aynı zamanda, 15. yüzyılda Fatih Sultan Mehmed’in İstanbul’u fethi sırasında, Haliç’e indirmek üzere gemilerini karaya çıkardığı yer olduğu da rivayet olunmaktadır. Osmanlı döneminde Kaptan-ı Derya’nın donanma gemilerini demirledikleri ve geleneksel denizcilik törenlerinin yapıldığı bu koy, 17. yüzyıldan itibaren doldurularak “Dolmabahçe” adıyla padişahların hasbahçesi konumuna getirilmiştir. 19. yüzyıla kadar bu hasbahçe içinde yaptırılan ahşap köşk ve kasırlar topluluğu “Beşiktaş Sahil Sarayı” adıyla anılmıştır.",
         "fotourl":"https://raw.githubusercontent.com/Krdlnlsn/AndroidStudio_KU/main/DolmabahceSarayi.png"
     },
     { 
         "isim" :"Topkapı Sarayı",
-         "aciklama":"Topkapı Sarayı, İstanbul Sarayburnu'nda, Osmanlı İmparatorluğu'nun 600 yıllık tarihinin 400 yılı boyunca,
-          devletin idare merkezi olarak kullanılan ve Osmanlı padişahlarının yaşadığı saraydır.
-           Bir zamanlar içinde 4.000'e yakın insan yaşamıştır.",
+         "aciklama":"Topkapı Sarayı, İstanbul Sarayburnu'nda, Osmanlı İmparatorluğu'nun 600 yıllık tarihinin 400 yılı boyunca, devletin idare merkezi olarak kullanılan ve Osmanlı padişahlarının yaşadığı saraydır. Bir zamanlar içinde 4.000'e yakın insan yaşamıştır.",
          "fotourl":"https://raw.githubusercontent.com/Krdlnlsn/AndroidStudio_KU/main/topkapi.png"
     },
      { 
         "isim" :"Yerebatan Sarnıcı",
-         "aciklama":"Yerebatan Sarnıcı İstanbul'da şehrin su ihtiyacını karşılamak üzere 526-527 senelerinde yaptırılmış kapalı su sarnıcıdır. 
-         Ayasofya'nın güneybatısında, Soğukçeşme Sokağı'nda bulunmaktadır. 
-         Suyun içinden yükselen pek çok mermer sütun nedeniyle halk arasında Yerebatan Sarayı olarak isimlendirilmektedir.",
+         "aciklama":"Yerebatan Sarnıcı İstanbul'da şehrin su ihtiyacını karşılamak üzere 526-527 senelerinde yaptırılmış kapalı su sarnıcıdır. Ayasofya'nın güneybatısında, Soğukçeşme Sokağı'nda bulunmaktadır. Suyun içinden yükselen pek çok mermer sütun nedeniyle halk arasında Yerebatan Sarayı olarak isimlendirilmektedir.",
          "fotourl":"https://raw.githubusercontent.com/Krdlnlsn/AndroidStudio_KU/main/yerebatanSarnici.png"
     }
 
